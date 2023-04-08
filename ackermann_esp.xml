@@ -1,0 +1,9 @@
+<library path="ackermann_hardware_interface">
+  <class name="ackermann_esp/AckermannESP"
+         type="ackermann_hardware_interface::AckermannESP"
+         base_class_type="hardware_interface::SystemInterface">
+    <description>
+      Hardware Interface for Ackerman ESP controller.
+    </description>
+  </class>
+</library>
